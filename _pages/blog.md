@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /khutbahs/
 title: khutbahs
 nav: true
 nav_order: 1

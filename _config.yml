@@ -122,8 +122,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: HRIA updates # blog_name will be displayed in your blog page
-blog_description: Stay connected with the latest updates from Masjid Syedna Hasan # blog_description will be displayed in your blog page
+blog_name: HRIA khutbah # blog_name will be displayed in your blog page
+blog_description: Watch past khutbahs # blog_description will be displayed in your blog page
 permalink: /blog/:year/:title/
 
 # Pagination
