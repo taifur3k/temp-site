@@ -10,7 +10,7 @@ email: you@example.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The homepage for Masjid Syedna Hasan serving the Muslim community in Highlands Ranch and surrounding areas.
 footer_text: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Masjid Syedna Hasan is a non-profit organization serving the Muslim community in Highlands Ranch and surrounding areas. We are dedicated to providing a safe and welcoming environment for all Muslims. We offer a variety of services including daily prayers, Friday prayers, and Islamic education for children and adults. Our goal is to promote a better understanding of Islam and to foster a sense of community among Muslims in the area. We welcome all Muslims to join us in worship and fellowship.
+  Masjid Syedna Hasan is a non-profit organization serving the Muslim community in Highlands Ranch and surrounding areas. 
 keywords: masjid, mosque, muslim, islamic, highlands ranch # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -164,7 +164,7 @@ collections:
     permalink: /projects/:path/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
